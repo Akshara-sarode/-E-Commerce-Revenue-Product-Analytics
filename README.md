@@ -12,7 +12,7 @@ This project demonstrates how SQL and Power BI can be used together to uncover d
 
 ## 💡 Dashboard Preview
 
-![image](https://github.com/user-attachments/assets/a82569d3-fdbb-4f85-b116-f43938f8c39d)
+![image](https://github.com/user-attachments/assets/f88091ac-ba0c-4ed6-bb62-b4c1d3164466)
 
 
 ##  🛠️ Tools & Technologies
