@@ -1,5 +1,5 @@
 ## 📊 E-Commerce Revenue & Product Analytics
-This project demonstrates how SQL and Power BI can be used together to uncover deep business insights from a real-world UK-based e-commerce dataset. By performing exploratory analysis and interactive visual storytelling, it captures patterns in product performance, customer behavior, order value, and sales trends.
+This project demonstrates how SQL and Power BI can be combined to uncover in-depth business insights from a real-world UK-based e-commerce dataset. By performing exploratory analysis and interactive visual storytelling, it captures patterns in product performance, customer behavior, order value, and sales trends.
 
 ## 🚀 Project Goals
 - Strengthen SQL and data analytics skills using real-world retail data
@@ -16,7 +16,7 @@ This project demonstrates how SQL and Power BI can be used together to uncover d
 
 
 ##  🛠️ Tools & Technologies
-- SQLite:	Data analysis using advanced SQL queries
+- SQLite: Data analysis using advanced SQL queries
 - Power BI:	Data modeling and dashboard visualization
 - Git & GitHub:	Version control and collaboration
 
